@@ -1,0 +1,15 @@
+artifact_uri: file:///home/devavinoth/Learnings/MLOps%20by%20DSwithBappy/Learning_mlflow/mlruns/0/054265dacb5e433ab9d3b97687c00a2d/artifacts
+end_time: 1717702432044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 054265dacb5e433ab9d3b97687c00a2d
+run_name: welcoming-fawn-433
+run_uuid: 054265dacb5e433ab9d3b97687c00a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717702427828
+status: 3
+tags: []
+user_id: devavinoth

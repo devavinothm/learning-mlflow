@@ -1,0 +1,15 @@
+artifact_uri: file:///home/devavinoth/Learnings/MLOps%20by%20DSwithBappy/Learning_mlflow/mlruns/0/65d8a041c7cc42b5940f2a4aca784909/artifacts
+end_time: 1717702662494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65d8a041c7cc42b5940f2a4aca784909
+run_name: classy-cow-813
+run_uuid: 65d8a041c7cc42b5940f2a4aca784909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717702657155
+status: 3
+tags: []
+user_id: devavinoth

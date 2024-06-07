@@ -1,0 +1,12 @@
+creation_timestamp: 1717702662484
+current_stage: None
+description: null
+last_updated_timestamp: 1717702662484
+name: ElasticnetWineModel
+run_id: 65d8a041c7cc42b5940f2a4aca784909
+run_link: null
+source: file:///home/devavinoth/Learnings/MLOps%20by%20DSwithBappy/Learning_mlflow/mlruns/0/65d8a041c7cc42b5940f2a4aca784909/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2
